@@ -21,8 +21,8 @@ Requires at least WordPress: 4.0
 Tested up to: 4.9.4
  * WC requires at least: 3.2
  * WC tested up to: 3.4.5
-License: GPLv2 or later
-License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
+ * License: GPLv2 or later
+ * License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
 Do It Simply Select Courses by Dropdown Date allows selection of booking products by a dropdown box.  This is useful if you only have a small number of dates to choose and do not want customers to have to scroll through several months to find them. 
 
