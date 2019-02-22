@@ -1,9 +1,12 @@
 # WooBookings Drop-down Dates (AW Mod)
-Primarily allows WooCommerce Bookable Products dates to be selected from drop-down vs the ugly and unnecessary calendar. Automattic somehow don't consider basic functionaility and usability important despite demanding a lot of money for their Bookings plugin ($250/£190 per year).
+Primarily allows WooCommerce Bookable Products dates to be selected from drop-down vs the ugly and unnecessary calendar. Automattic somehow don't consider basic functionaility and usability important despite demanding a lot of money for their [Bookings plugin](https://woocommerce.com/products/woocommerce-bookings/) ($250/£190 per year). **Please note**: that plugin is required for this plugin to function.
 
-This is forked from  baperrou/WooBooking-Dropdown-coursedates to add extra functionaility I would like, and the vast, vast majority of code is hers, I merely make modifications here and there.
+This project is based on [baperrou/WooBooking-Dropdown-coursedates](https://github.com/baperrou/WooBooking-Dropdown-coursedates) to add extra functionaility I would like, and the vast, vast majority of code is hers, I merely made modifications here and there. Should be noted though the base code is not latest from GitHub, but that which is provided on request from [http://plugins.doitsimply.co.uk/](http://plugins.doitsimply.co.uk/)
 
-First to remove availability number from drop-down then:
+It is made available under GPLv2 licence, as is this modified version. I will try to keep this plugin up to date per the original where possible, but the latest will likely come direct from DO IT SIMPLY LTD, and depending on functionality and fixes added there, this may become redundant.
+
+Roadmap:
+  - Remove availability number from drop-down. **[done]**
   - Add an option to enable this or not (once I've read through the code properly and played with adding options to WooCommerce!)
     Need to see whether to add to each product? Or as a global setting somehow?
   - Create shortcode so can list/display dates available in Content area. Could do this sepearately, but makes sense to add to this plugin.
@@ -19,7 +22,7 @@ Tested up to: 4.9.4
  * WC requires at least: 3.2
  * WC tested up to: 3.4.5
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: [http://www.gnu.org/licenses/gpl-2.0.html](http://www.gnu.org/licenses/gpl-2.0.html)
 
 Do It Simply Select Courses by Dropdown Date allows selection of booking products by a dropdown box.  This is useful if you only have a small number of dates to choose and do not want customers to have to scroll through several months to find them. 
 
