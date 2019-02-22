@@ -27,14 +27,14 @@ Do It Simply Select Courses by Dropdown Date allows selection of booking product
 
 Do It Simply  Courses by Dropdown Date is an add-on for the Woocommerce and Woo Bookings.  You can choose which bookable products it is used for.  It also allows you to use either Resources or Booking Max Blocks with Availability.  You cannot use both Resources and Availability together.
 
-## Docs & Support =
+## Docs & Support
 
 The following plugins are needed for Do It Simply Select Courses by Dropdown Date to work:
 
 * [WooCommerce](https://woocommerce.com/) by Automattic 
 * [WooCommerce Bookings](https://woocommerce.com/) by Automattic 
 
-## Installation ==
+## Installation
 
 1. Upload the entire `WooBookings-Dropdown` folder to the `/wp-content/plugins/` directory. 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
